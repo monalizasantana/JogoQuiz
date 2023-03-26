@@ -1,17 +1,21 @@
-# JogoQuiz
+## JogoQuiz60+  :technologist:
 
-
-# Quiz60+ :technologist:
 Trabalho de Conclusão de Curso - Quiz60+: Um Jogo Educativo para Segurança  Digital dos Usuários da Terceira Idade
-#### A pesquisa surgiu a partir da seguinte pergunta :
-Pela falta de conhecimento em segurança digital, os idosos são mais propensos a caírem em golpes virtuais?
-#### Desse modo, objeto Geral foi : Ajudar as pessoas da terceira idade a não cair em golpes virtuais através de um jogo.
-#### Os objetivos Específico: 
--Ajudar as pessoas da terceira idade usar a internet com segurança 
+## A pesquisa surgiu a partir da seguinte pergunta :
 
--Ajudar na identificação dos golpes 
+- Pela falta de conhecimento em segurança digital, os idosos são mais propensos a caírem em golpes virtuais?
 
--Orientar para não passar informações para estranhos 
+## Objeto Geral 
+
+- Ajudar as pessoas da terceira idade a não cair em golpes virtuais através de um jogo.
+
+## Os objetivos Específico: 
+
+- Ajudar as pessoas da terceira idade usar a internet com segurança 
+
+- Ajudar na identificação dos golpes 
+
+- Orientar para não passar informações para estranhos 
 
 O Jogo visa evitar que os usuários se tornem vítimas de
 estelionato, além disso, proporcionar o conhecimento sobre 4
