@@ -36,12 +36,21 @@ atento antes de responder um e-mail ou clicar em algum link,
 por exemplo.
 
 ## Tecnologia usada
-Na criação do Quiz60+ utilizamos um motor de jogo, também conhecido
-pelo termo em inglês game engine ou engine. É um programa
-de desenvolvimento de jogos e outras aplicações gráficas em
-tempo real, que serve para facilitar o trabalho de desenvolver
-jogos digitais. É onde todos os elementos de jogos são
-unificados, como: animação 3D, sprite 2D (é uma personagem
-ou objeto nos jogos 2D, que permite o desenvolvedor criar
-um efeito de movimento, como mostra a figura 12), textura,
-iluminação, física, música, efeitos sonoros, entre outros
+Quiz60+ foi desenvolvido utilizando o
+engine da Unity 2D, na versão Unity 2019.4.38f1, utilizando
+a linguagem de programação C#. 
+E as imagens usadas são no formato jpeg, disponibilizadas na internet. As fontes usadas
+são no formato tritype.ttf
+
+
+Para elaboração dos botões, imagens, sons e modelagem do
+cenário foi adquirido através da loja da Unity, na Asset Store e
+em outros sites na internet 2.
+Com intuito de desenvolver um
+jogo mais dinâmico para que os usuários da terceira idade
+sentissem interesse em jogar foram implementados efeitos
+sonoros, músicas de fundo e movimento de cenas. Na tela de
+perguntas, foi desenvolvido a função de mudar para próxima
+pergunta quando o usuário desejar, com isso ele pode ter mais
+tempo de ler as perguntas e respostas e memorizá-las
+
