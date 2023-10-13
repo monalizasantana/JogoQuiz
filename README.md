@@ -1,4 +1,5 @@
-## Jogo em #C :technologist: Trabalho de Conclusão de Curso - Quiz60+: Um Jogo Educativo para Segurança  Digital dos Usuários da Terceira Idade
+## Jogo em #C :technologist: 
+Trabalho de Conclusão de Curso - Quiz60+: Um Jogo Educativo para Segurança  Digital dos Usuários da Terceira Idade
 
 
 ## A pesquisa surgiu a partir da seguinte pergunta :
