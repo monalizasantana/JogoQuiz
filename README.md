@@ -2,7 +2,6 @@
 Trabalho de Conclusão de Curso - Quiz60+: Um Jogo Educativo para Segurança  Digital dos Usuários da Terceira Idade
 
 
-Trabalho de Conclusão de Curso - Quiz60+: Um Jogo Educativo para Segurança  Digital dos Usuários da Terceira Idade
 ## A pesquisa surgiu a partir da seguinte pergunta :
 
 - Pela falta de conhecimento em segurança digital, os idosos são mais propensos a caírem em golpes virtuais?
