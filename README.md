@@ -44,6 +44,17 @@ a linguagem de programação C#.
 E as imagens usadas são no formato jpeg, disponibilizadas na internet. As fontes usadas
 são no formato tritype.ttf
 
+##
+
+<div align="center">
+ <img src="https://github.com/monalizasantana/JogoQuiz/blob/monalizasantana-patch-2/img/ink%20(1).png" width="200" />
+ <p align=”center”> Figura 1 </p>
+</div>
+Figura 1. Tela inicial do jogo Quiz60+. O botão vermelho com “x” indica sair do jogo, o botão azul “opções” indica configurações de sons e zerar partida.
+
+##
+
+
 
 Para elaboração dos botões, imagens, sons e modelagem do
 cenário foi adquirido através da loja da Unity, na Asset Store e
