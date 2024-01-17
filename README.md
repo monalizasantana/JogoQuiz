@@ -54,6 +54,28 @@ Figura 1. Tela inicial do jogo Quiz60+. O botão vermelho com “x” indica sai
 
 ##
 
+<div align="center">
+ <img src="https://github.com/monalizasantana/JogoQuiz/blob/monalizasantana-patch-2/img/ink%20(2).png" width="200" />
+ <p align=”center”> Figura 2 </p>
+</div>
+Figura 2. Tela de Configurações.
+
+##
+
+
+<div align="center">
+ <img src="https://github.com/monalizasantana/JogoQuiz/blob/monalizasantana-patch-2/img/ink%20(3).png" width="200" />
+ <p align=”center”> Figura 3 </p>
+</div>
+Figura 3. Tela do jogo Quiz60+. Aonde indica os 4 tipos de temas sobre golpes.
+
+##
+
+
+
+
+
+
 
 
 Para elaboração dos botões, imagens, sons e modelagem do
