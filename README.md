@@ -41,7 +41,7 @@ por exemplo.
 Quiz60+ foi desenvolvido utilizando o
 engine da Unity 2D, na versão Unity 2019.4.38f1, utilizando
 a linguagem de programação C#. 
-E as imagens usadas são no formato jpeg, disponibilizadas na internet. As fontes usadas
+E as imagens usadas são no formato jpeg disponibilizadas na internet. As fontes usadas
 são no formato tritype.ttf
 
 ##
