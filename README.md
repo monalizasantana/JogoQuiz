@@ -71,7 +71,32 @@ Figura 3. Tela do jogo Quiz60+. Aonde indica os 4 tipos de temas sobre golpes.
 
 ##
 
+<div align="center">
+ <img src="https://github.com/monalizasantana/JogoQuiz/blob/monalizasantana-patch-2/img/ink%20(4).png" width="200" />
+ <p align=”center”> Figura 4 </p>
+</div>
+Figura 4. Tela do jogo Quiz60+ que indica as perguntas sobre golpe do falso site de promoção.
 
+##
+
+
+<div align="center">
+ <img src="https://github.com/monalizasantana/JogoQuiz/blob/monalizasantana-patch-2/img/ink%20(5).png" width="200" />
+ <p align=”center”> Figura 5 </p>
+</div>
+Figura 5. Tela do jogo Quiz60+ que indica as perguntas sobre golpe do WhatsApp Clonado, ao acertar a pergunta aparece uma animação emite um som e fica verde na opção correta e vermelho na opção errada.
+
+##
+
+
+
+<div align="center">
+ <img src="https://github.com/monalizasantana/JogoQuiz/blob/monalizasantana-patch-2/img/ink%20(6).png" width="200" />
+ <p align=”center”> Figura 6 </p>
+</div>
+Figura 6. Tela do jogo Quiz60+. Aonde é indicado o número de acertos do jogador.
+
+##
 
 
 
