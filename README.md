@@ -24,7 +24,7 @@ estelionato, além disso, proporcionar o conhecimento sobre 4
 (quatro) tipos de golpes: Golpe do WhatsApp Clonado; Golpe
 do Falso Namorado, Golpe do Site Falso de Promoção e Golpe
 de Mensagens Armadilhas
-
+ 
 O Quiz60+ é um jogo, do tipo perguntas e respostas, propõe
 ao jogador aprender sobre 4 (quatro) tipos de golpes mais
 comuns aplicados na web. Nos temas propostos, o jogador
