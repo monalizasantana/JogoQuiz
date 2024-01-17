@@ -24,7 +24,7 @@ estelionato, além disso, proporcionar o conhecimento sobre 4
 (quatro) tipos de golpes: Golpe do WhatsApp Clonado; Golpe
 do Falso Namorado, Golpe do Site Falso de Promoção e Golpe
 de Mensagens Armadilhas
-
+ 
 O Quiz60+ é um jogo, do tipo perguntas e respostas, propõe
 ao jogador aprender sobre 4 (quatro) tipos de golpes mais
 comuns aplicados na web. Nos temas propostos, o jogador
@@ -41,8 +41,66 @@ por exemplo.
 Quiz60+ foi desenvolvido utilizando o
 engine da Unity 2D, na versão Unity 2019.4.38f1, utilizando
 a linguagem de programação C#. 
-E as imagens usadas são no formato jpeg, disponibilizadas na internet. As fontes usadas
+E as imagens usadas são no formato jpeg disponibilizadas na internet. As fontes usadas
 são no formato tritype.ttf
+
+##
+
+<div align="center">
+ <img src="https://github.com/monalizasantana/JogoQuiz/blob/monalizasantana-patch-2/img/ink%20(1).png" width="200" />
+ <p align=”center”> Figura 1 </p>
+</div>
+Figura 1. Tela inicial do jogo Quiz60+. O botão vermelho com “x” indica sair do jogo, o botão azul “opções” indica configurações de sons e zerar partida.
+
+##
+
+<div align="center">
+ <img src="https://github.com/monalizasantana/JogoQuiz/blob/monalizasantana-patch-2/img/ink%20(2).png" width="200" />
+ <p align=”center”> Figura 2 </p>
+</div>
+Figura 2. Tela de Configurações.
+
+##
+
+
+<div align="center">
+ <img src="https://github.com/monalizasantana/JogoQuiz/blob/monalizasantana-patch-2/img/ink%20(3).png" width="200" />
+ <p align=”center”> Figura 3 </p>
+</div>
+Figura 3. Tela do jogo Quiz60+. Aonde indica os 4 tipos de temas sobre golpes.
+
+##
+
+<div align="center">
+ <img src="https://github.com/monalizasantana/JogoQuiz/blob/monalizasantana-patch-2/img/ink%20(4).png" width="200" />
+ <p align=”center”> Figura 4 </p>
+</div>
+Figura 4. Tela do jogo Quiz60+ que indica as perguntas sobre golpe do falso site de promoção.
+
+##
+
+
+<div align="center">
+ <img src="https://github.com/monalizasantana/JogoQuiz/blob/monalizasantana-patch-2/img/ink%20(5).png" width="200" />
+ <p align=”center”> Figura 5 </p>
+</div>
+Figura 5. Tela do jogo Quiz60+ que indica as perguntas sobre golpe do WhatsApp Clonado, ao acertar a pergunta aparece uma animação emite um som e fica verde na opção correta e vermelho na opção errada.
+
+##
+
+
+
+<div align="center">
+ <img src="https://github.com/monalizasantana/JogoQuiz/blob/monalizasantana-patch-2/img/ink%20(6).png" width="200" />
+ <p align=”center”> Figura 6 </p>
+</div>
+Figura 6. Tela do jogo Quiz60+. Aonde é indicado o número de acertos do jogador.
+
+##
+
+
+
+
 
 
 Para elaboração dos botões, imagens, sons e modelagem do
