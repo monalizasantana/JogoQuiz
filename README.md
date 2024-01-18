@@ -1,4 +1,4 @@
-##📱 Sobre o projeto
+##  👨‍💻 Sobre o projeto
 
 O Quiz60+ desenvovildo para conclusão de Trabalho final de Curso- TCC
 
@@ -33,7 +33,7 @@ um determinado tipo de golpe.
 
 
 ## 💻 Tecnologias
-
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)   
 
 ## ✨ Recursos
 - Engine
@@ -46,7 +46,7 @@ um determinado tipo de golpe.
 
 Para elaboração dos botões, imagens, sons e modelagem do cenário foi adquirido através da loja da Unity, na Asset Store e em outros sites na internet. Com intuito de desenvolver um jogo mais dinâmico para que os usuários da terceira idade sentissem interesse em jogar foram implementados efeitos sonoros, músicas de fundo e movimento de cenas. Na tela de perguntas, foi desenvolvido a função de mudar para próxima pergunta quando o usuário desejar, com isso ele pode ter mais tempo de ler as perguntas e respostas e memorizá-las.
 
-##
+## 🛠
 
 <div align="center">
  <img src="https://github.com/monalizasantana/JogoQuiz/blob/monalizasantana-patch-2/img/ink%20(1).png" width="200" />
