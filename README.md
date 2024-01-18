@@ -3,7 +3,7 @@
 O Quiz60+ desenvovildo para conclusão de Trabalho final de Curso- TCC
 
 
-## 📑 A pesquisa surgiu a partir da seguinte pergunta :
+## 📑 A pesquisa surgiu a partir da seguinte pergunta
 
 - Pela falta de conhecimento em segurança digital, os idosos são mais propensos a caírem em golpes virtuais?
 
@@ -33,9 +33,12 @@ um determinado tipo de golpe.
 
 
 ## 💻 Tecnologias
+
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)   
 
+
 ## ✨ Recursos
+
 - Engine
 - Prite 2D na versão Unity 2019.4.38f1
 - Desenvolvido para sistema android
