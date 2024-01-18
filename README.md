@@ -1,6 +1,6 @@
 ##  👨‍💻 Sobre o projeto
 
-O Quiz60+ desenvovildo para conclusão de Trabalho final de Curso- TCC
+O Quiz60+ desenvolvido para conclusão de Trabalho final de Curso- TCC
 
 
 ## 📑 A pesquisa surgiu a partir da seguinte pergunta
