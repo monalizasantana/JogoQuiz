@@ -3,15 +3,15 @@
 O Quiz60+ desenvovildo para conclusão de Trabalho final de Curso- TCC
 
 
-## A pesquisa surgiu a partir da seguinte pergunta :
+## 📑 A pesquisa surgiu a partir da seguinte pergunta :
 
 - Pela falta de conhecimento em segurança digital, os idosos são mais propensos a caírem em golpes virtuais?
 
-## Objeto Geral 
+## ✏️ Objeto Geral 
 
 - Ajudar as pessoas da terceira idade a não cair em golpes virtuais através de um jogo.
 
-## Os objetivos Específico: 
+## ✏️ Os objetivos Específico: 
 
 - Ajudar as pessoas da terceira idade usar a internet com segurança 
 
