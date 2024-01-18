@@ -32,12 +32,16 @@ seleciona um tema e responde as perguntas relacionadas com
 um determinado tipo de golpe.
 
 
-## Tecnologia usada
-- Na criação do Quiz60+  foi desenvolvido utilizando o engine da Unity com sprite 2D, na versão Unity 2019.4.38f1, a linguagem de programação usada foi C#.
-- Desenvolvido para sistema android;
-- Intuitivo;
-- Simples;
-- Lúdico;
+## 💻 Tecnologia usada
+
+
+## ✨ Recursos
+- Engine
+- Prite 2D na versão Unity 2019.4.38f1
+- Desenvolvido para sistema android
+- Intuitivo
+- Simples
+- Lúdico
   
 
 Para elaboração dos botões, imagens, sons e modelagem do cenário foi adquirido através da loja da Unity, na Asset Store e em outros sites na internet. Com intuito de desenvolver um jogo mais dinâmico para que os usuários da terceira idade sentissem interesse em jogar foram implementados efeitos sonoros, músicas de fundo e movimento de cenas. Na tela de perguntas, foi desenvolvido a função de mudar para próxima pergunta quando o usuário desejar, com isso ele pode ter mais tempo de ler as perguntas e respostas e memorizá-las.
