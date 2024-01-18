@@ -101,7 +101,7 @@ Figura 6. Tela do jogo Quiz60+. Aonde é indicado o número de acertos do jogado
 
 
 
-## Conclusão 
+##  📝 Conclusão 
 Nosso objetivo era implementar um jogo fácil, ao mesmo tempo, didático e eficaz na resolução de ajudar os idosos com os problemas de golpes virtuais.
 O jogo pode ser facilmente usado por pessoas da terceira idade mesmo que não tenham conhecimento com aparatos tecnológicos, além disso, o jogo ajuda no desenvolvimento
 de habilidades cognitivas, bem como promovem o desenvolvimento intelectual.
