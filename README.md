@@ -1,6 +1,6 @@
-## Jogo em #C :technologist: 
+##📱 Sobre o projeto
 
-Trabalho de Conclusão de Curso - Quiz60+: Um Jogo Educativo para Segurança  Digital dos Usuários da Terceira Idade
+O Quiz60+ desenvovildo para conclusão de Trabalho final de Curso- TCC
 
 
 ## A pesquisa surgiu a partir da seguinte pergunta :
@@ -32,7 +32,7 @@ seleciona um tema e responde as perguntas relacionadas com
 um determinado tipo de golpe.
 
 
-## 💻 Tecnologia usada
+## 💻 Tecnologias
 
 
 ## ✨ Recursos
