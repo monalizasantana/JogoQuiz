@@ -25,24 +25,22 @@ estelionato, além disso, proporcionar o conhecimento sobre 4
 do Falso Namorado, Golpe do Site Falso de Promoção e Golpe
 de Mensagens Armadilhas
  
-O Quiz60+ é um jogo, do tipo perguntas e respostas, propõe
+O Quiz60+ é um jogo do tipo perguntas e respostas, propõe
 ao jogador aprender sobre 4 (quatro) tipos de golpes mais
 comuns aplicados na web. Nos temas propostos, o jogador
 seleciona um tema e responde as perguntas relacionadas com
-um determinado tipo de golpe. Desenvolvido para sistema
-android, intuitivo, simples e lúdico, que foi desenvolvido com
-objetivo ajudar o público da terceira idade a não cair em
-golpes virtuais mais comuns aplicados através da internet, a
-importância de se inteirar com que está fazendo, de ler e ficar
-atento antes de responder um e-mail ou clicar em algum link,
-por exemplo.
+um determinado tipo de golpe.
+
 
 ## Tecnologia usada
-Quiz60+ foi desenvolvido utilizando o
-engine da Unity 2D, na versão Unity 2019.4.38f1, utilizando
-a linguagem de programação C#. 
-E as imagens usadas são no formato jpeg disponibilizadas na internet. As fontes usadas
-são no formato tritype.ttf
+- Na criação do Quiz60+  foi desenvolvido utilizando o engine da Unity com sprite 2D, na versão Unity 2019.4.38f1, a linguagem de programação usada foi C#.
+- Desenvolvido para sistema android;
+- Intuitivo;
+- Simples;
+- Lúdico;
+  
+
+Para elaboração dos botões, imagens, sons e modelagem do cenário foi adquirido através da loja da Unity, na Asset Store e em outros sites na internet. Com intuito de desenvolver um jogo mais dinâmico para que os usuários da terceira idade sentissem interesse em jogar foram implementados efeitos sonoros, músicas de fundo e movimento de cenas. Na tela de perguntas, foi desenvolvido a função de mudar para próxima pergunta quando o usuário desejar, com isso ele pode ter mais tempo de ler as perguntas e respostas e memorizá-las.
 
 ##
 
@@ -96,21 +94,19 @@ Figura 5. Tela do jogo Quiz60+ que indica as perguntas sobre golpe do WhatsApp C
 </div>
 Figura 6. Tela do jogo Quiz60+. Aonde é indicado o número de acertos do jogador.
 
-##
+
+
+
+## Conclusão 
+Nosso objetivo era implementar um jogo fácil, ao mesmo tempo, didático e eficaz na resolução de ajudar os idosos com os problemas de golpes virtuais.
+O jogo pode ser facilmente usado por pessoas da terceira idade mesmo que não tenham conhecimento com aparatos tecnológicos, além disso, o jogo ajuda no desenvolvimento
+de habilidades cognitivas, bem como promovem o desenvolvimento intelectual.
 
 
 
 
 
 
-Para elaboração dos botões, imagens, sons e modelagem do
-cenário foi adquirido através da loja da Unity, na Asset Store e
-em outros sites na internet 2.
-Com intuito de desenvolver um
-jogo mais dinâmico para que os usuários da terceira idade
-sentissem interesse em jogar foram implementados efeitos
-sonoros, músicas de fundo e movimento de cenas. Na tela de
-perguntas, foi desenvolvido a função de mudar para próxima
-pergunta quando o usuário desejar, com isso ele pode ter mais
-tempo de ler as perguntas e respostas e memorizá-las
+
+
 
